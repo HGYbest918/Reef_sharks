@@ -1,0 +1,11 @@
+Model Information:
+* title:	Reef shark
+* source:	https://sketchfab.com/3d-models/reef-shark-83449421d95e4914bfb1109736aadbd7
+* author:	SharkModelzCreator (https://sketchfab.com/liamgarro2012)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Reef shark" (https://sketchfab.com/3d-models/reef-shark-83449421d95e4914bfb1109736aadbd7) by SharkModelzCreator (https://sketchfab.com/liamgarro2012) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
